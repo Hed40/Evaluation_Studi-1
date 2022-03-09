@@ -1,0 +1,37 @@
+h1 {
+  color: white;
+  font-size: 3.5vh;
+  text-shadow: black;
+  padding-left: 5px;
+  vertical-align: middle;
+}
+
+h2 {
+  color: whitesmoke;
+  font-size: 3vh;
+}
+
+h3 {
+  font-size: 2,5vh;
+}
+
+h4 {
+  font-size: 2vh;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-header {
+  background-color: #525252;
+}
+
+body {
+  background-color: #73777c;
+}
+
+p, .card.text {
+  text-align: justify;
+}
+/*# sourceMappingURL=Style.css.map */
